@@ -8,21 +8,21 @@ URL: <https://github.com/rcore-os/rCore-Tutorial-v3>
 
 ## Feature
 
-- [x] Batch Processing System
+- [ ] Batch Processing System
 
-- [x] Cooperative Multitask
+- [ ] Cooperative Multitask
 
-- [x] Timesharing Multitask
+- [ ] Timesharing Multitask
 
-- [x] Page table
+- [ ] Page table
 
-- [x] Process
+- [ ] Process
 
-- [x] File System
+- [ ] File System
 
-- [x] InterProcess Communication and I/O Redirection
+- [ ] InterProcess Communication and I/O Redirection
 
-- [x] Concurrency
+- [ ] Concurrency
 
 - [ ] I/O Device Management
 
