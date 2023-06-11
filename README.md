@@ -5,6 +5,7 @@ RISC-V OS written in Rust
 - Architecture: RISC-V RV64
 
 URL: <https://github.com/rcore-os/rCore-Tutorial-v3>
+
 docs: <http://rcore-os.cn/rCore-Tutorial-Book-v3/>
 
 ## How to start
